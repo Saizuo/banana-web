@@ -6428,15 +6428,15 @@ html {
 }
 
 .team-member:nth-child(1) .image {
-	background-image: url(https://media.discordapp.net/attachments/1147887838495522978/1249336248821088316/elchapo_f_1080-removebg-preview.png?ex=6666ee8d&is=66659d0d&hm=c1b68bb48e6c88adedf0dd1a2a0eb2eea13085dd8a40785bb5728d9d35172e48&=&format=webp&quality=lossless&width=449&height=449);
+	background-image: url(../chapo.png);
 }
 
 .team-member:nth-child(2) .image {
-	background-image: url(https://media.discordapp.net/attachments/1147887838495522978/1249336650358591498/9FDAB3CD-E3E7-4309-82B3-085D8213C7DB-removebg-preview.png?ex=6666eeec&is=66659d6c&hm=044b942767160ab15f8cb2a3dcd542420bf3d420b956f2361d18e947bb1ffdea&=&format=webp&quality=lossless&width=394&height=314);
+	background-image: url(../jeff.png);
 }
 
 .team-member:nth-child(3) .image {
-	background-image: url(https://media.discordapp.net/attachments/1147887838495522978/1249395025456922724/DxsAC4PWkAcCy4E-removebg-preview.png?ex=6667254a&is=6665d3ca&hm=542ff86c5a59f107262d449aedb8dad83dfbbbea2f47cbe2cb0f7afe86359090&=&format=webp&quality=lossless&width=314&height=314);
+	background-image: url(../oj_simp.png);
 }
 
 .team-member:nth-child(4) .image {
